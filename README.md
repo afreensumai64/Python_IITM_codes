@@ -4,5 +4,5 @@ This repository contains **Python programs and their solutions** organized by to
 
 ---
 
-## 📂 Repository Structure
+
 
