@@ -1,8 +1,7 @@
-# Python IITM Codes Repository
+# 🐍 Python IITM Practice Codes
 
-This repository contains **Python programs and their solutions** organized by topics from IITM practice sessions and exercises. Each folder contains Python files with **both problem statements and solutions**.
 
----
-
+This repo contains **Python programs and solutions** for IITM assignments and practice questions.  
+Contains previous year oppe questions as well
 
 
